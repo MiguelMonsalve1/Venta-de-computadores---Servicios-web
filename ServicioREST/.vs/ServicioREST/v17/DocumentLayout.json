@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\ServicioREST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{554A3350-BD11-4D07-A3DA-74292DFAD890}|ServicioREST\\ServicioREST.csproj|c:\\users\\migue\\source\\repos\\serviciorest\\serviciorest\\clases\\computadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554A3350-BD11-4D07-A3DA-74292DFAD890}|ServicioREST\\ServicioREST.csproj|solutionrelative:serviciorest\\clases\\computadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554A3350-BD11-4D07-A3DA-74292DFAD890}|ServicioREST\\ServicioREST.csproj|c:\\users\\migue\\source\\repos\\serviciorest\\serviciorest\\controllers\\computadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554A3350-BD11-4D07-A3DA-74292DFAD890}|ServicioREST\\ServicioREST.csproj|solutionrelative:serviciorest\\controllers\\computadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554A3350-BD11-4D07-A3DA-74292DFAD890}|ServicioREST\\ServicioREST.csproj|c:\\users\\migue\\source\\repos\\serviciorest\\serviciorest\\models\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554A3350-BD11-4D07-A3DA-74292DFAD890}|ServicioREST\\ServicioREST.csproj|solutionrelative:serviciorest\\models\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554A3350-BD11-4D07-A3DA-74292DFAD890}|ServicioREST\\ServicioREST.csproj|c:\\users\\migue\\source\\repos\\serviciorest\\serviciorest\\models\\dbventacomputadores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554A3350-BD11-4D07-A3DA-74292DFAD890}|ServicioREST\\ServicioREST.csproj|solutionrelative:serviciorest\\models\\dbventacomputadores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554A3350-BD11-4D07-A3DA-74292DFAD890}|ServicioREST\\ServicioREST.csproj|c:\\users\\migue\\source\\repos\\serviciorest\\serviciorest\\models\\dbventacomputadores.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554A3350-BD11-4D07-A3DA-74292DFAD890}|ServicioREST\\ServicioREST.csproj|solutionrelative:serviciorest\\models\\dbventacomputadores.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Computador.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ServicioREST\\ServicioREST\\Models\\Computador.cs",
+              "RelativeDocumentMoniker": "ServicioREST\\Models\\Computador.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ServicioREST\\ServicioREST\\Models\\Computador.cs",
+              "RelativeToolTip": "ServicioREST\\Models\\Computador.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:38:34.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBVentaComputadores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ServicioREST\\ServicioREST\\Models\\DBVentaComputadores.Designer.cs",
+              "RelativeDocumentMoniker": "ServicioREST\\Models\\DBVentaComputadores.Designer.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ServicioREST\\ServicioREST\\Models\\DBVentaComputadores.Designer.cs",
+              "RelativeToolTip": "ServicioREST\\Models\\DBVentaComputadores.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:38:24.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComputadoresController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ServicioREST\\ServicioREST\\Controllers\\ComputadoresController.cs",
+              "RelativeDocumentMoniker": "ServicioREST\\Controllers\\ComputadoresController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ServicioREST\\ServicioREST\\Controllers\\ComputadoresController.cs",
+              "RelativeToolTip": "ServicioREST\\Controllers\\ComputadoresController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:48:27.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Computadores.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ServicioREST\\ServicioREST\\Clases\\Computadores.cs",
+              "RelativeDocumentMoniker": "ServicioREST\\Clases\\Computadores.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ServicioREST\\ServicioREST\\Clases\\Computadores.cs",
+              "RelativeToolTip": "ServicioREST\\Clases\\Computadores.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:09:30.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBVentaComputadores.Context.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\ServicioREST\\ServicioREST\\Models\\DBVentaComputadores.Context.cs",
+              "RelativeDocumentMoniker": "ServicioREST\\Models\\DBVentaComputadores.Context.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\ServicioREST\\ServicioREST\\Models\\DBVentaComputadores.Context.cs",
+              "RelativeToolTip": "ServicioREST\\Models\\DBVentaComputadores.Context.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:03:58.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
